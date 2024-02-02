@@ -1,0 +1,6 @@
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.graphql linguist-detectable
+*.json linguist-detectable
+*.csv lingust-detectable
