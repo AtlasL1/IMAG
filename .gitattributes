@@ -4,3 +4,4 @@
 *.graphql linguist-detectable
 *.json linguist-detectable
 *.csv linguist-detectable
+*.md linguist-detectable
