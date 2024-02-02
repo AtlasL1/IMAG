@@ -3,4 +3,4 @@
 *.js linguist-vendored
 *.graphql linguist-detectable
 *.json linguist-detectable
-*.csv lingust-detectable
+*.csv linguist-detectable
