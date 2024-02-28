@@ -1,7 +1,7 @@
 <h1 align="center">Partners of IMAG</h1>
 <h3 align="center">AtPI</h3>
-<p align="center"><br>
-<img style="width:250px" src="https://media.discordapp.net/attachments/1146406609094967337/1209370642231721994/Screenshot_2024-02-20_132419-modified_2.png?ex=65efe7ae&is=65dd72ae&hm=d09ee39d2c5453d642fc9854d422d4337583154e558ca5ed79fb79519919d7bf&=&format=webp&quality=lossless&width=662&height=662"><br>
+<p align="center">
+<img style="width:250px" src="https://media.discordapp.net/attachments/1146406609094967337/1209370642231721994/Screenshot_2024-02-20_132419-modified_2.png?ex=65efe7ae&is=65dd72ae&hm=d09ee39d2c5453d642fc9854d422d4337583154e558ca5ed79fb79519919d7bf&=&format=webp&quality=lossless&width=662&height=662"><br><br>
 AtPI = Atlas + API <br> Proj.SBS = Project + Side by Side <br>
 
 #### JSON APIs
